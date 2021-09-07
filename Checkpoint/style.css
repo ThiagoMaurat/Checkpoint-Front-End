@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100&family=Teko&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("/Checkpoint/img/MIRANTE-SOBERBO-1.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Antic Didone',Oxygen, Ubuntu, serif;
+  font-size: 25px;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+  color: whitesmoke;
+  background-size:cover;
+}
+
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius:25px;  
+  margin-bottom: 25px;
+  color: black;
+}
+
+#Corpo{
+  margin-bottom:25px;
+}
+
+li {
+  padding: 10px;
+  margin-left: 30px;
+}
+footer a img{
+  width:50px;
+  height:50px;
+  
+}
+
+footer {
+  margin-top: 35px;
+  border-radius:25px;
+  text-align:center;
+  color: blue;
+  margin-bottom: 25px;
+}
+
+#Video{
+  margin-bottom: 25px;
+  margin-left:auto;
+}
