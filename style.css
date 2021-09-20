@@ -11,8 +11,7 @@
 
 body {
   background-image: url("./Mirante.jpg");
-  background-color: #cccccc;
-  background-repeat: no-repeat;
+    background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Antic Didone',Oxygen, Ubuntu, serif;
   font-size: 25px;
