@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url("./img/Mirante.jpg");
+  background-image: url("/img/Mirante.jpg");
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-size: cover;
